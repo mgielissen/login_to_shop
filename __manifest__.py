@@ -9,7 +9,7 @@
     'category': 'eCommerce',
     'summary': '''Users must login to view products''',
     'version': '1.0',
-    'license': 'MIT',
+    'license': 'GPL-3',
     'author': 'Ewetoye Ibrahimsh',
     'website': 'https://github.com/EwetoyeIbrahim/login_to_shop',
     'description': "",

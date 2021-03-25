@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <!-- Layout and common templates -->
-    <template id="restrict_product" inherit_id="website_sale.products"
-    groups="base.group_user,base.group_portal">
+    <template id="restrict_product" inherit_id="website_sale.products">
+        <xpath expr="//div[@id='wrap']" position="attributes">
+            <attribute name="groups">base.group_user,base.group_portal</attribute>
+        </xpath>
     </template>
 </odoo>

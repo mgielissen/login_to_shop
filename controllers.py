@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from odoo.http import request
+from odoo.http import request, route
 from odoo.addons.website_sale.controllers.main import WebsiteSale
 
 class ForceLogin(WebsiteSale):

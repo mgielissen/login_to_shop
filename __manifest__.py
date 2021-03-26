@@ -10,7 +10,7 @@
     'summary': '''Users must login to view products''',
     'version': '1.0',
     'license': 'GPL-3',
-    'author': 'Ewetoye Ibrahimsh',
+    'author': 'Ewetoye Ibrahim',
     'website': 'https://github.com/EwetoyeIbrahim/login_to_shop',
     'description': "",
     'images': ['static/description/icon.png'],
